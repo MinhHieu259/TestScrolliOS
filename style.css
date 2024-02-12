@@ -4,6 +4,6 @@
     padding: 15px;
     width: 50%;
     height: 100px;
-    /* overflow: scroll; */
+    overflow: scroll;
     border: 1px solid #ccc;
   }
